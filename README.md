@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- :man: I am Erice Michael D. Marial
+- :house: I am currently residing in Rodriguez, Rizal, Philippines
+- ⌨ My main goal in establishing this account is to store and share my programming milestones.
 <!--
 **ericemarial/ericemarial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
