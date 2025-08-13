@@ -75,7 +75,6 @@ I aim to become either a fully-fledged full-stack developer or a cybersecurity s
 
 ---
 
-
 <h2 align="center">GitHub Statistics</h2>
 
 <p align="center">
@@ -86,17 +85,17 @@ I aim to become either a fully-fledged full-stack developer or a cybersecurity s
   <img src="https://streak-stats.demolab.com?user=dnsxmrs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- Use ONE of the two below: Snake OR Metrics -->
-
 <!-- Snake -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/dnsxmrs/dnsxmrs/output/snake.svg" alt="Contribution Snake" />
 </p>
 
-<!-- OR Metrics -->
+<!-- Metrics (comment out the one you don't want) -->
+<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/dnsxmrs/dnsxmrs/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
+-->
 
 ---
 
