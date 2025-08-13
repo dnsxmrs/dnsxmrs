@@ -82,6 +82,21 @@ I aim to become either a fully-fledged full-stack developer or a cybersecurity s
   <img src="https://github-readme-stats.vercel.app/api?username=dnsxmrs&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnsxmrs&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dnsxmrs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<!-- Use ONE of the two below: Snake OR Metrics -->
+
+<!-- Snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dnsxmrs/dnsxmrs/output/snake.svg" alt="Contribution Snake" />
+</p>
+
+<!-- OR Metrics -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dnsxmrs/dnsxmrs/main/github-metrics.svg" alt="GitHub Metrics" />
+</p>
 
 ---
 
