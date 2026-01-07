@@ -105,37 +105,36 @@ I aim to become either a fully-fledged full-stack developer or a cybersecurity s
   <tr>
     <td align="center" width="33%">
       <h3>🔧 Backend Development</h3>
-      <p>
-        • API Design & Development<br/>
-        • Database Architecture & Optimization<br/>
-        • Server-Side Logic & Integration<br/>
-        • RESTful Services<br/>
-      </p>
+      <ul style="text-align: left; display: inline-block;">
+        <li>API Design & Development</li>
+        <li>Database Architecture & Optimization</li>
+        <li>Server-Side Logic & Integration</li>
+        <li>RESTful Services</li>
+      </ul>
     </td>
     <td align="center" width="33%">
       <h3>🌐 Full-Stack Solutions</h3>
-      <p>
-        • End-to-End Web Applications<br/>
-        • Real-Time Systems (POS, KDS)<br/>
-        • E-commerce & Ordering Platforms<br/>
-        • Student/Faculty Portals<br/>
-      </p>
+      <ul style="text-align: left; display: inline-block;">
+        <li>End-to-End Web Applications</li>
+        <li>Real-Time Systems (POS, KDS)</li>
+        <li>E-commerce & Ordering Platforms</li>
+        <li>Student/Faculty Portals</li>
+      </ul>
     </td>
     <td align="center" width="33%">
       <h3>⚡ Workflow Automation</h3>
-      <p>
-        • Process Automation Scripts<br/>
-        • CI/CD Pipeline Setup<br/>
-        • Data Processing & Migration<br/>
-        • System Integration<br/>
-      </p>
+      <ul style="text-align: left; display: inline-block;">
+        <li>Process Automation Scripts</li>
+        <li>CI/CD Pipeline Setup</li>
+        <li>Data Processing & Migration</li>
+        <li>System Integration</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <em>Whether you need a robust backend system, a complete web application, or automated workflows,<br/>
-  I'm here to turn your ideas into working solutions.</em>
+  <em>Whether you need a robust backend system, a complete web application, or automated workflows, I'm here to turn your ideas into working solutions.</em>
 </p>
 
 ---
