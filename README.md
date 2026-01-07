@@ -102,8 +102,6 @@ I aim to become either a fully-fledged full-stack developer or a cybersecurity s
 <h2 align="center">Currently Working On</h2>
 
 <p align="center">
-A hackathon project<br/>
-Website and system commissions<br/>
 Improving tech knowledgebase
 </p>
 
