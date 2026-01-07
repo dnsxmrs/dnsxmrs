@@ -99,6 +99,47 @@ I aim to become either a fully-fledged full-stack developer or a cybersecurity s
 
 ---
 
+<h2 align="center">What I Can Help With</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🔧 Backend Development</h3>
+      <p>
+        • API Design & Development<br/>
+        • Database Architecture & Optimization<br/>
+        • Server-Side Logic & Integration<br/>
+        • RESTful Services<br/>
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🌐 Full-Stack Solutions</h3>
+      <p>
+        • End-to-End Web Applications<br/>
+        • Real-Time Systems (POS, KDS)<br/>
+        • E-commerce & Ordering Platforms<br/>
+        • Student/Faculty Portals<br/>
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h3>⚡ Workflow Automation</h3>
+      <p>
+        • Process Automation Scripts<br/>
+        • CI/CD Pipeline Setup<br/>
+        • Data Processing & Migration<br/>
+        • System Integration<br/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <em>Whether you need a robust backend system, a complete web application, or automated workflows,<br/>
+  I'm here to turn your ideas into working solutions.</em>
+</p>
+
+---
+
 <h2 align="center">Currently Working On</h2>
 
 <p align="center">
