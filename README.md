@@ -5,11 +5,6 @@
 
 <h2 align="center">About Me</h2>
 
-<blockquote align="center">
-I tinker with code for the joy of it.  
-Whether it's a quick idea or a full-blown project, I'm always chasing that <em>"what if?"</em> moment.
-</blockquote>
-
 <p align="center">
 While I have full-stack capabilities, my current focus is on backend systems, database optimization, and workflow automation.<br/>
 I aim to become either a fully-fledged full-stack developer or a cybersecurity specialist.
