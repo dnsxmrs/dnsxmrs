@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
-- 👨‍💻 All of my projects are available at [dnsxmrs.vercel.app](dnsxmrs.vercel.app)
+- 👨‍💻 All of my projects are available at [dnsxmrs.vercel.app](https://dnsxmrs.vercel.app)
 
 - 📫 How to reach me **ericemarial@gmail.com**
 
