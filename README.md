@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Erice Michael D. Marial</h1>
-<h3 align="center">Backend Developer Enthusiast</h3>
+<h3 align="center">Backend Developer</h3>
 
-- 🔭 I’m currently working on **academic projects**
+- 🔭 I’m currently working on **academic projects** and **personal projects**
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
 - 👨‍💻 All of my projects are available at [dnsxmrs.vercel.app](https://dnsxmrs.vercel.app)
 
-- 📫 How to reach me **ericemarial@gmail.com**
+- 📫 Reach me at **ericemarial@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
