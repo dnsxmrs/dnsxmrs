@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erice Michael D. Marial</h1>
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 - 🔭 I’m currently working on **academic projects** and **personal projects**
 
