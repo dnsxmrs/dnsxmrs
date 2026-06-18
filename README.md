@@ -7,15 +7,15 @@
 
 - 👯 I’m looking to collaborate on **anythinggg... really.**
 
-- 👨‍💻 All of my projects are available at [dnsxmrs.vercel.app](dnsxmrs.vercel.app)
+- 👨‍💻 All of my projects are available at [dnsxmrs.vercel.app](https://dnsxmrs.vercel.app)
 
 - 📫 How to reach me **ericemarial@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/dnsxmrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/dnsxmrs" height="30" width="40" /></a>
+<a href="hhttps://dev.to/dnsxmrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/dnsxmrs" height="30" width="40" /></a>
 <a href="https://twitter.com/dnsxmrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dnsxmrs" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/erice-michael-marial-76b74a300/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/erice-michael-marial-76b74a300/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/erice-michael-marial-76b74a300/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/erice-michael-marial-76b74a300/" height="30" width="40" /></a>
 <a href="https://fb.com/dnsxmrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dnsxmrs" height="30" width="40" /></a>
 <a href="https://instagram.com/dnsxmrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dnsxmrs" height="30" width="40" /></a>
 </p>
